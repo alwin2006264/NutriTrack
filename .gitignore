@@ -1,0 +1,16 @@
+# Private database configuration
+db.php
+test_db.php
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Database backups
+*.sql
+*.sql.zip
+
+# Temporary files
+*.log
+*.tmp
